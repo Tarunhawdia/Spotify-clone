@@ -2,7 +2,7 @@
 
 This is a simple Spotify Clone project created using HTML, CSS, and JavaScript. It's a basic implementation that mimics some of the core functionalities of the Spotify web player. This project serves as a demonstration of front-end development skills and is not intended for commercial use.
 
-![Screenshot]([screenshot.png](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e8/59/1e/e8591e90-7287-32bd-1245-647c636c85e5/AppIcon-0-0-1x_U007emarketing-0-6-0-0-0-85-220.png/1200x600wa.png))
+![Screenshot]([demo.png))
 
 ## Features
 
