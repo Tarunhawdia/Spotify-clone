@@ -6,11 +6,10 @@ This is a simple Spotify Clone project created using HTML, CSS, and JavaScript. 
 
 ## Features
 
-- User-friendly interface resembling the Spotify web player.
-- Play, pause, skip, and previous track controls.
-- Display of track progress and interactive seek bar.
-- Volume control.
-- Responsive design that works well on various screen sizes.
+-Play/Pause: Allows the user to start or pause the playback of the currently selected track.
+-Next/Previous: Enables the user to skip to the next or previous track in the playlist or album.
+-Seek: Allows the user to manually move forward or backward within a track by dragging a slider or clicking on a progress bar.
+-Display the currently playing song and album artwork.
 
 ## Demo
 
